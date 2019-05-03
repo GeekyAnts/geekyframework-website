@@ -1,12 +1,12 @@
 # GeekyFramework
 
-### A Javascript based framework inspired from Laravel.
+### A Javascript based framework for Web Artisans, inspired from Laravel.
 
 ##### What it is:
 
 • A framework for typescript based React and React Native applications.
 
-#### What it provides:
+##### What it provides:
 
 • Folder structure.
 
@@ -16,7 +16,7 @@
 
 • Global Config
 
-#### What it does not provide:
+##### What it does not provide:
 
 • Routing
 
