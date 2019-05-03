@@ -1,3 +1,5 @@
+# GeekyFramework
+
 ### A Javascript based framework inspired from Laravel.
 
 ##### What it is:
@@ -7,11 +9,15 @@
 #### What it provides:
 
 • Folder structure.
+
 • Data models.
+
 • Authentication flow.
+
 • Global Config
 
 #### What it does not provide:
 
 • Routing
+
 • UI components
