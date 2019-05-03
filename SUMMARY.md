@@ -1,9 +1,5 @@
 # Summary
 
-- [Prologue](prologue.md)
-
-- [Introduction](introduction.md)
-
 - [Getting Started](getting-started.md)
 
   - [Installation](installation.md)
