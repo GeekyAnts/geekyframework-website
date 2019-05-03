@@ -8,7 +8,11 @@
 
   - [Installation](installation.md)
 
+  - [Directory Structure](directory-structure.md)
+
 - [Architecture](architecture.md)
+
+  - [Service Providers](service-providers.md)
 
 - [Basics](basics.md)
 

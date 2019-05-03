@@ -2,16 +2,24 @@
 
 • Install GeekyFramework CLI
 
-###### `yarn global add geekyframework-cli`
+```sh
+$ yarn global add geekyframework-cli
+```
 
 or
 
-###### `npm -g install geekyframework-cli`
+```sh
+$ npm -g install geekyframework-cli
+```
 
 • Go to you typescript based React/ React-Native project
 
-###### `cd <project-name>`
+```sh
+$ cd <project-name>
+```
 
 • Initialize the framework
 
-###### `geek init`
+```sh
+$ geek init
+```
