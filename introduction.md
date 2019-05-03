@@ -1,1 +1,1 @@
-Javascript based framework inspired from Laravel.
+### Javascript based framework inspired from Laravel.
