@@ -1,0 +1,18 @@
+ul.header-menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: right;
+}
+
+ul.header-menu > li {
+  display: inline-block;
+  padding: 15px;
+}
+ul.header-menu > li > a {
+  text-decoration: none;
+  color: #000;
+}
+ul.header-menu > li > a:hover {
+  text-decoration: underline;
+}
